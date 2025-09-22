@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extensions>
+    <plugins>
+        <plugin name="DSP-FIR-Mellow" version="1.0.0" minTarget="7.8" maxTarget="*">
+            <title lang="EN">DSP-FIR-Mellow</title>
+            <desc lang="EN">DSP FIR processing with Mellow settings</desc>
+            <category>audio</category>
+            <creator>Informatica Melizzi</creator>
+            <email>support@informaticamelizzi.it</email>
+            <homepageURL>https://github.com/InformaticaMelizzi/dsp-fir-mellow</homepageURL>
+            <link>https://github.com/InformaticaMelizzi/dsp-fir-mellow</link>
+            <url>https://raw.githubusercontent.com/InformaticaMelizzi/dsp-fir-mellow/main/packages/DSP-FIR-Mellow-1.0.0.zip</url>
+            <sha>eb6931e0d12eeaa03c423e9a2a72958711b2c2ee</sha>
+        </plugin>
+    </plugins>
+</extensions>
